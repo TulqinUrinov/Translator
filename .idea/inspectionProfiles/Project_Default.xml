@@ -1,0 +1,66 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="anyio" />
+          <option value="asgiref" />
+          <option value="certifi" />
+          <option value="Django" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="idna" />
+          <option value="python-telegram-bot" />
+          <option value="sqlparse" />
+          <option value="tzdata" />
+          <option value="python-dotenv" />
+          <option value="djangorestframework" />
+          <option value="djangorestframework_simplejwt" />
+          <option value="drf-yasg" />
+          <option value="inflection" />
+          <option value="packaging" />
+          <option value="PyJWT" />
+          <option value="pytz" />
+          <option value="PyYAML" />
+          <option value="uritemplate" />
+          <option value="protobuf" />
+          <option value="ccxt" />
+          <option value="pandas" />
+          <option value="requests" />
+          <option value="flask" />
+          <option value="fastapi" />
+          <option value="uvicorn" />
+          <option value="python-multipart" />
+          <option value="aiofiles" />
+          <option value="deep-translator" />
+          <option value="deepgram-sdk" />
+          <option value="openai" />
+          <option value="redis" />
+          <option value="celery" />
+          <option value="pydantic" />
+          <option value="pydantic-settings" />
+          <option value="websockets" />
+          <option value="playwright" />
+          <option value="psycopg2-binary" />
+          <option value="openpyxl" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyStubPackagesAdvertiser" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="djangorestframework" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

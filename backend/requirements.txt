@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+websockets
+python-multipart
+faster-whisper
+edge-tts
+pydub
+ollama
+numpy
+scipy
